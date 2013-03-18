@@ -167,9 +167,9 @@ html
 	-moz-border-radius: 10px;
 	border-radius: 10px;
 
-	background:rgb(10,14,0);
+	background:rgb(71,81,148);
 	color:#fff;
-	border:0;
+	border:1px solid #000;
 	padding:10px;
 
 	float:right;
