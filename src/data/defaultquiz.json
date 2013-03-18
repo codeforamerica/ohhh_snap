@@ -1,0 +1,7 @@
+{
+	"questions":[
+		{"question":"What percentage of people enrolled in SNAP are employed?","answers":["10%","20%","50%","75%"],"correct":3,"explanation":"Here’s why..."},
+		{"question":"What percentage of eligible residents in California are enrolled in CalFresh?","answers":["50%","70%","85%","98%"],"correct":0,"explanation":"Here’s why..."},
+		{"question":"How does an increase in CalFresh participation affect the California economy?","answers":["A 5% increase in participation will result in an additional $189,700,000 in economic activity","Every $5 in new CalFresh benefits generates $9 in community spending","Because CalFresh benefits are redeemed the same month they are issued, CalFresh acts as an immediate economic stimulus to struggling local economies", "All of the above"],"correct":3,"explanation":"Here’s why..."},	
+		{"question":"a question","answers":["one","two","three","four"],"correct":1,"explanation":"Here’s why..."}
+]}
