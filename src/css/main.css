@@ -212,6 +212,28 @@ html
 	margin-top:10px;
 }
 
+#choices
+{
+	display:table;
+}
+
+#choices .question-group
+{
+	display:table-row;
+}
+
+#choices .buttons,
+#choices .labels
+{
+	display:table-cell;
+}
+
+#choices .buttons
+{
+	position: relative;
+	top: -3px;
+}
+
 .hide 
 {
 	display:none;
